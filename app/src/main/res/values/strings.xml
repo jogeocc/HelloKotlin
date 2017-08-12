@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="saludo">Nos vemos el Proximo Sabado</string>
+</resources>
